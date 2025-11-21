@@ -32,13 +32,13 @@ G2.1_gerber.zip: carpeta comprimida (zip) con ficheros Gerber para esquemático 
 
 G2.1_layout.jpg: imagen (.jpg) del Oscilador a 2.4 GHz basado en BJT.
 
-G2.7_gerber.zip: carpeta comprimida (zip) con ficheros Gerber para esquemático G2.7_layout
+G2.4_gerber.zip: carpeta comprimida (zip) con ficheros Gerber para esquemático G2.7_layout
 
-G2.7_layout.jpg: imagen (.jpg) del Sensor con punto excepcional de degeneración EDP.
+G2.4_layout.jpg: imagen (.jpg) del Sensor con punto excepcional de degeneración EDP.
 
-G2.11_gerber.zip: carpeta comprimida (zip) con ficheros Gerber para esquemático G2.16_layout
+G2.8_gerber.zip: carpeta comprimida (zip) con ficheros Gerber para esquemático G2.16_layout
 
-G2.11_layout.jpg: imagen (.jpg) del Oscilador a 2.4 GHz.
+G2.8_layout.jpg: imagen (.jpg) del Oscilador a 2.4 GHz.
 
 G6.1_layout.png: imagen (.png) del layout del circuito amplificador de potencia equilibrado diseñado a 3.5 GHz.
 
@@ -47,6 +47,7 @@ G6.4_layout.png: imagen (.png) del layout de uno de los dobladores de frecuencia
 G6.5_gerber.zip: carpeta comprimida (zip) con los archivos Gerber del layout del amplificador de potencia Doherty a 5.8 GHz.
 
 G6.5_layout.png: imagen (.png) del layout del circuito amplificador de potencia Doherty trabajando a 5.8 GHz en clase J.
+
 
 
 
