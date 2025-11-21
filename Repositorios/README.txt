@@ -64,43 +64,35 @@ G2.1: C. Moncada, F. Ramírez, A. Suárez ,”Analysis and Design of a New Mater
 
 G2.2: S. Sancho, M. Ponton and A. Suarez, "Analysis of a Self-Injected Super-Regenerative Oscillator for Motion Sensing," 2025 IEEE/MTT-S International Microwave Symposium - IMS 2025, San Francisco, CA, USA, 2025, pp. 618-621, doi: 10.1109/IMS40360.2025.11103966.
 
-G2.3: A. Suárez, “Wirelessly Locked Oscillators for Tag-to-Reader Communications,” 19th European Conference on Antennas and Propagation (EuCAP), Stockholmm Sweden, Mar. 30 – Apr.4, 2025. Invited paper. 
+G2.3: A. Suárez, M. Pontón, S. Sancho, “Analysis and Design of Material Sensors based on Free-Running and Injection-Locked Oscillators,” 2025 IEEE MTT-S Latin America Microwave Conference (LAMC), San Juan, Puerto Rico, 2025.
 
-G2.4: A. Suárez, “Advanced Strategies for Overcoming Simulation Challenges in Nonlinear Microwave Circuits,” International Workshop on Integrated Nonlinear Microwave and Millimetre-wave Circuits, INMMiC 2025, Torino, Italy, Apr. 2025. Opening plenary talk.
+G2.4: C. Moncada, F. Ramírez, A. Suárez, "Frequency-Domain Analysis of a Coupled Oscillator Sensor with an Exceptional Point of Degeneracy", IEEE Radio Wireless Week (RWW), San Juan, Puerto Rico, Jan. 19-22, 2025.
 
-G2.5: A. Suárez, “Efficient Analysis of Compact Oscillator Based Implementations in RFID Readers, Self-Injection-Locked Radar, and Wireless Power Transfer context,” International Conference On Information Systems And Communication Technologies ICISCT’ 25, Larache, Morocco, June, 2025. Opening plenary talk.
+G2.5: F. Ramírez, A. Suárez, O. Boric-Lubecke, V. Lubecke, "Continuous Wave Doppler Radar Occupant Count Estimation using Spectral Features," International Microwave & Antennas Symposium (IMAS 2024), Oct. 21-24, Marrakech, Morocco, 2024.
 
-G2.6: A. Suárez, M. Pontón, S. Sancho, “Analysis and Design of Material Sensors based on Free-Running and Injection-Locked Oscillators,” 2025 IEEE MTT-S Latin America Microwave Conference (LAMC), San Juan, Puerto Rico, 2025.
+G2.6: F. Ramírez, A. Suárez, “Injection-Locked Oscillator Coupled to Two External Resonators for Wireless Power Transfer,” 54th European Microwave Conference, (EuMC), Paris, France, 2024.
 
-G2.7: C. Moncada, F. Ramírez, A. Suárez, "Frequency-Domain Analysis of a Coupled Oscillator Sensor with an Exceptional Point of Degeneracy", IEEE Radio Wireless Week (RWW), San Juan, Puerto Rico, Jan. 19-22, 2025.
+G2.7: S. Sancho, M. Pontón, A. Suárez, “Analysis and modeling of super-regenerative oscillators with FMCW signals,” IEEE MTT-S Int. Microw. Symp., Washington, USA, Jun., 2024.
 
-G2.8: F. Ramírez, A. Suárez, O. Boric-Lubecke, V. Lubecke, "Continuous Wave Doppler Radar Occupant Count Estimation using Spectral Features," International Microwave & Antennas Symposium (IMAS 2024), Oct. 21-24, Marrakech, Morocco, 2024.
+G2.8: C. Moncada, F. Ramírez, A. Suárez, “Analysis of Two Wirelessly Locked Oscillators Based on Realistic Nonlinear Oscillator Models,” IEEE MTT-S Int. Microwave Symp., Washington, USA, Jun., 2024.
 
-G2.9: F. Ramírez, A. Suárez, “Injection-Locked Oscillator Coupled to Two External Resonators for Wireless Power Transfer,” 54th European Microwave Conference, (EuMC), Paris, France, 2024.
+G2.9: A. Suárez, F. Ramírez, “Advances in the Analysis of Injection–Locked Oscillators,” 2023 Asia-Pacific Microwave Conference (APMC), Taipei, Taiwan, Dec., 2023. Invited paper.
 
-G2.10: S. Sancho, M. Pontón, A. Suárez, “Analysis and modeling of super-regenerative oscillators with FMCW signals,” IEEE MTT-S Int. Microw. Symp., Washington, USA, Jun., 2024.
+G2.10: V. Ardila, F. Ramírez, A. Suárez, “Data Transfer in an Injection-Locked Oscillator Coupled to an External Resonator,” 53rd European Microwave Conference, (EuMC), Berlin, Germany, 2023.
 
-G2.11: C. Moncada, F. Ramírez, A. Suárez, “Analysis of Two Wirelessly Locked Oscillators Based on Realistic Nonlinear Oscillator Models,” IEEE MTT-S Int. Microwave Symp., Washington, USA, Jun., 2024.
+G2.11: S. Sancho, F. Ramírez, M. Pontón, A. Suárez, “Analysis of a Sensor Based on an Injection-Locked Oscillator Driven by a Chirp Signal,” 2023 IEEE MTT-S Int. Microwave Symp., San Diego, CA, USA, Jun., 2023.
 
-G2.12: A. Suárez, F. Ramírez, “Advances in the Analysis of Injection–Locked Oscillators,” 2023 Asia-Pacific Microwave Conference (APMC), Taipei, Taiwan, Dec., 2023. Invited paper.
+G2.12: A. Suárez, F. Ramírez, “Substitution Method for the Analysis of Systems Based on Two Nonlinear Resonators,” 2023 IEEE MTT-S Int. Microwave Symp., San Diego, CA, USA, Jun., 2023.
 
-G2.13: V. Ardila, F. Ramírez, A. Suárez, “Data Transfer in an Injection-Locked Oscillator Coupled to an External Resonator,” 53rd European Microwave Conference, (EuMC), Berlin, Germany, 2023.
+G2.13: M. Pontón, F. Ramírez, S. Sancho, A. Suárez, “Analysis of a self-oscillating mixer based on a slow-wave structure,” 52nd European Microwave Conference, (EuMC), Milan, Italy, 2022.
 
-G2.14: S. Sancho, F. Ramírez, M. Pontón, A. Suárez, “Analysis of a Sensor Based on an Injection-Locked Oscillator Driven by a Chirp Signal,” 2023 IEEE MTT-S Int. Microwave Symp., San Diego, CA, USA, Jun., 2023.
+G2.14: A. Suárez, “Stability and phase-noise analysis,” 2022 52nd European Microwave Conference (EuMC), Milan, Italy, 2022, pp. 5-8.  Invited paper.
 
-G2.15: A. Suárez, F. Ramírez, “Substitution Method for the Analysis of Systems Based on Two Nonlinear Resonators,” 2023 IEEE MTT-S Int. Microwave Symp., San Diego, CA, USA, Jun., 2023.
+G2.15: V. Ardila, F. Ramírez, A. Suárez, “Nonlinear Analysis of an Injection-Locked Oscillator Coupled to an External Resonator,” 2022 IEEE MTT-S Int. Microwave Symp., Denver, CO, USA, Jun., 2022.
 
-G2.16: M. Pontón, F. Ramírez, S. Sancho, A. Suárez, “Analysis of a self-oscillating mixer based on a slow-wave structure,” 52nd European Microwave Conference, (EuMC), Milan, Italy, 2022.
+G2.16: M. Pontón, S. Sancho, A. Herrera, A. Suárez, “Nonlinear Analysis of Oscillators Based on a Slow-Wave Structure for Phase-Noise Reduction,” 2022 IEEE MTT-S Int. Microwave Symp., Denver, CO, USA, Jun., 2022.
 
-G2.17: A. Suárez, “Stability and phase-noise analysis,” 2022 52nd European Microwave Conference (EuMC), Milan, Italy, 2022, pp. 5-8.  Invited paper.
-
-G2.18: V. Ardila, F. Ramírez, A. Suárez, “Nonlinear Analysis of an Injection-Locked Oscillator Coupled to an External Resonator,” 2022 IEEE MTT-S Int. Microwave Symp., Denver, CO, USA, Jun., 2022.
-
-G2.19: M. Pontón, S. Sancho, A. Herrera, A. Suárez, “Nonlinear Analysis of Oscillators Based on a Slow-Wave Structure for Phase-Noise Reduction,” 2022 IEEE MTT-S Int. Microwave Symp., Denver, CO, USA, Jun., 2022.
-
-G2.20: F. Ramírez, R. Melville, A. Suárez, “Analysis of Inductively Injection Locked Oscillators at an Integer Frequency Ratio,” 51th European Microwave Conference (EuMC), London, Apr., 2022.
-
-G2.21: A. Suárez, "Stability Analysis and Efficient Simulation of Novel Circuits for Radar Systems, RFID, and Wireless Power Transfer," 2021 Asia Pacific Microwave Conference (APMC), Brisbane, Australia, 28 Nov. – 1 Dec., 2021, pp. 1-3.  Invited paper.
+G2.17: F. Ramírez, R. Melville, A. Suárez, “Analysis of Inductively Injection Locked Oscillators at an Integer Frequency Ratio,” 51th European Microwave Conference (EuMC), London, Apr., 2022.
 
 
 G6.1: Diseño de un amplificador híbrido equilibrado usando acopladores basados en “space-filling curves. Nombre del congreso: XXXX Simposio Nacional de la Unión Científica Internacional de Radio (URSI 2025), Tarragona. Tipo de comunicación: Oral. Autores/as*: Rodríguez-Varela, Guillerme; Morales-Fernández, Ainhoa; Fernández-Barciela, Mónica; Martín-Rodríguez, Fernando. Año: 2025
