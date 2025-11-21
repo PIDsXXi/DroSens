@@ -12,25 +12,26 @@ G1.13_Fig13a.fig: Dinámica del oscilador Clase E. Lugar de bifurcación de Hopf
 
 G1.22_Fig1.fig: Figura en Matlab de los contornos de ganancia de conversión del segundo armónico en función de la tensión de puerta (punto de polarización) y la potencia de entrada para simulaciones con el transistor TFG2977-SM, empleado en varios diseños del proyecto.
 
-G2.16_Fig8.fig: Figura Matlab. Límites de operación del mezclador auto-oscilante.
+G2.13_Fig8.fig: Figura Matlab. Límites de operación del mezclador auto-oscilante.
 
-G2.20_Fig3a.fig: Figura Matlab. Familia de curvas solución. Amplitud de la oscilación de frecuencia más alta. 
+G2.17_Fig3a.fig: Figura Matlab. Familia de curvas solución. Amplitud de la oscilación de frecuencia más alta. 
  
-G2.20_Fig3b.fig: Figura Matlab. Familia de curvas solución. Amplitud de la oscilación de frecuencia más baja.
+G2.17_Fig3b.fig: Figura Matlab. Familia de curvas solución. Amplitud de la oscilación de frecuencia más baja.
 
-G2.20_Fig3c.fig: Figura Matlab. Familia de curvas solución. Frecuencia de oscilación
+G2.17_Fig3c.fig: Figura Matlab. Familia de curvas solución. Frecuencia de oscilación
 
-G2.20_Fig3d.fig: Figura Matlab. Familia de curvas solución. Desfase.
+G2.17_Fig3d.fig: Figura Matlab. Familia de curvas solución. Desfase.
 
-G2.20_Fig4_poincare_k_0p3.fig: Figura Matlab. Validación de las furvas colución de la Fig. 3 mediante una técnica de mapeado en el dominio del tiempo. k=0.3
+G2.17_Fig4_poincare_k_0p3.fig: Figura Matlab. Validación de las furvas colución de la Fig. 3 mediante una técnica de mapeado en el dominio del tiempo. k=0.3
 
-G2.20_Fig4_poincare_k_0p6.fig: Figura Matlab. Validación de las furvas colución de la Fig. 3 mediante una técnica de mapeado en el dominio del tiempo. k=0.6
+G2.17_Fig4_poincare_k_0p6.fig: Figura Matlab. Validación de las furvas colución de la Fig. 3 mediante una técnica de mapeado en el dominio del tiempo. k=0.6
 
-G2.20_Fig4_poincare_k_0p75.fig: Figura Matlab. Validación de las furvas colución de la Fig. 3 mediante una técnica de mapeado en el dominio del tiempo. k=0.75
+G2.17_Fig4_poincare_k_0p75.fig: Figura Matlab. Validación de las furvas colución de la Fig. 3 mediante una técnica de mapeado en el dominio del tiempo. k=0.75
 
-G2.20_Fig6a.fig: Figura Matlab. Ruido de fase para k=0.2 Espectro simulado
+G2.17_Fig6a.fig: Figura Matlab. Ruido de fase para k=0.2 Espectro simulado
 
 G6.1_PinSweepSim.csv: archivo CSV con información de la PAE, eficiencia, Ganancia de transducción y potencia de salida simuladas del amplificador de potencia equilibrado trabajando a 3.5 GHz en un barrido de potencia de entrada.
+
 
 
 
